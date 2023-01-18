@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d21743ed-0aea-41b0-8a7f-1eef7a54a0eb" name="Changes" comment="" />
+    <list default="true" id="d21743ed-0aea-41b0-8a7f-1eef7a54a0eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/PostService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostController.js" beforeDir="false" afterPath="$PROJECT_DIR$/PostController.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +31,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/projects/node-test/main.js",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -45,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1673969623353</updated>
       <workItem from="1673969624470" duration="7869000" />
+      <workItem from="1674055250821" duration="3461000" />
     </task>
     <servers />
   </component>
